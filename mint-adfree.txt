@@ -101,28 +101,28 @@ mint.intuit.com###ira-link
 ! Navigation bar.
 
 ! Block "Marketplace" tab.
-beta.mint.intuit.com##a[data-auto-sel="nav-marketplace"]
+mint.intuit.com##a[data-auto-sel="nav-marketplace"]
 
 ! Block "Tax Hub" tab.
-beta.mint.intuit.com##a[data-auto-sel="nav-incometaxhub"]
+mint.intuit.com##a[data-auto-sel="nav-incometaxhub"]
 
 
 ! Overview page.
 
 ! Block marketplace section.
-beta.mint.intuit.com###marketplace-overview-cards
+mint.intuit.com###marketplace-overview-cards
 
 ! Block container for ad.
-beta.mint.intuit.com##div[data-morpheus-pluginid="promotions-personalized-offers-ui"]
+mint.intuit.com##div[data-morpheus-pluginid="promotions-personalized-offers-ui"]
 
 
 ! Transactions page.
 
 ! Block inline ads in transactions.
-beta.mint.intuit.com##.promotions-personalized-offers-ui
+mint.intuit.com##.promotions-personalized-offers-ui
 
 
 ! Bills page.
 
 ! Block "Save money with bill negotiation" section.
-beta.mint.intuit.com##div[class^="BillNegotiationCollapsestyled__CollapseWrapper-"]
+mint.intuit.com##div[class^="BillNegotiationCollapsestyled__CollapseWrapper-"]
